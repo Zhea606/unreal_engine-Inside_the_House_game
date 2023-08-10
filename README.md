@@ -6,7 +6,7 @@
 
 # 3D Horror Game 
 This is a game made in Unreal 5, as my final degree thesis, from the Video Game Development course, at Universidad de Mendoza, Argentina.
-The story was inspired by a local urban legend, which is about a house that has been inhabited since the death of its owner, a millionaire landowner who, according to legend, sold his soul to the devil. A lot of strange things happen in that house to this day.
+- The story was inspired by a local urban legend, which is about a house that has been inhabited since the death of its owner, a millionaire landowner who, according to legend, sold his soul to the devil. A lot of strange things happen in that house to this day.
 
 This prototype was made with free assets, and with Horror Game Kit, from Epic Marketplace. In addition, to improve the game mechanics, I incorporated custom blueprints. Also, I put into practice what I have learned about scenarioand props modeling.
 
