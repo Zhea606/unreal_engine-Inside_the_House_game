@@ -15,9 +15,14 @@ wannna see the GGD? click here --> [Game Document Design](https://www.canva.com/
 trailer --> [Inside the house](https://www.canva.com/design/DAFrGx9XAA0/Eph59cMFjQXbE7DdLC8hKA/watch?utm_content=DAFrGx9XAA0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
-<img src="https://github.com/Zhea606/inside_the_House_game/assets/69162988/f70a6e96-849d-4396-9bed-880def50e11c" alt="img3" width="450" height= "400" margin:0>
+![frame](https://github.com/user-attachments/assets/3824dffc-f019-43d8-9d4b-8cdfdc0eceeb)
+
+<img src="https://github.com/Zhea606/inside_the_House_game/assets/69162988/f70a6e96-849d-4396-9bed-880def50e11c" alt="img3"  >
 
 <img src="https://github.com/Zhea606/inside_the_House_game/assets/69162988/04d60150-013d-4d80-aa29-e3f94b9cde52" alt="img2" width="500" height= "400" >
+
+
+<img src="https://github.com/user-attachments/assets/8a4165dd-7424-4c11-9a8d-d26f09d36e91" alt="img2" width="500" height= "300" >
 
 
 
