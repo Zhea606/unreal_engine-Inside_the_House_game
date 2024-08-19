@@ -21,7 +21,6 @@ trailer --> [Inside the house](https://www.canva.com/design/DAFrGx9XAA0/Eph59cMF
 
 <img src="https://github.com/Zhea606/inside_the_House_game/assets/69162988/04d60150-013d-4d80-aa29-e3f94b9cde52" alt="img2" width="500" height= "400" >
 
-
 <img src="https://github.com/user-attachments/assets/8a4165dd-7424-4c11-9a8d-d26f09d36e91" alt="img2" width="500" height= "300" >
 
 
